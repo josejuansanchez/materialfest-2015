@@ -29,7 +29,7 @@ Slides and example codes for the talks given at [Material Fest 2015][1] in Cádi
 
 * **The Secrets to App Success on Google Play**
   > Speaker: [Andrés Leonardo Martinez Ortiz][8]
-  * Slides
+  * [Slides](https://docs.google.com/presentation/d/1GjC7oeGsSrIabkFM-kqfsmLZ8qIXiMFfLoit4SLRnhw/edit?usp=sharing)
 
 * **'Materializing' Wunderlist for Android**
   > Speaker: [Antonio Consuegra][9]
