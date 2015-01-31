@@ -12,7 +12,7 @@ Slides and example codes for the talks given at [Material Fest 2015][1] in Cádi
 
 * **Material Animations and other related stories**
   > Speaker: [David González][4]
-  * Slides
+  * [Slides](https://speakerdeck.com/malmstein/material-animations)
   * [GitHub](https://github.com/malmstein/MaterialAnimations)  
   Material Animations examples.
 
