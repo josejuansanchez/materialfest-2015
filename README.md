@@ -41,7 +41,7 @@ Slides and example codes for the talks given at [Material Fest 2015][1] in Cádi
 
 * **Diseñando Webs a lo Material Design con Polymer**
   > Speakers: [Ismael Faro][11], [Pedro Hurtado][12] and [Javier Velez][13]
-  * Slides
+  * [Slides](https://docs.google.com/presentation/d/1Bn9ZMUk8_A1qwrCaUlIzcDXHEEo5xurJRmtAgziOXOM/)
 
 [1]: http://materialfest.com/
 [2]: https://twitter.com/flipper83
