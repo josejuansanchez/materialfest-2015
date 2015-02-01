@@ -24,7 +24,7 @@ Slides and example codes for the talks given at [Material Fest 2015][1] in Cádi
 
 * **Painless Android Development with Scala.**
   > Speakers: [Javi Pacheco][6] and [Raul Raja][7]
-  * Slides
+  * [Slides](https://speakerdeck.com/raulraja/painless-android-development-with-scala)
   * [GitHub](http://47deg.github.io/translate-bubble-android/)
 
 * **The Secrets to App Success on Google Play**
