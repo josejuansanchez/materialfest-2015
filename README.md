@@ -35,8 +35,9 @@ Slides and example codes for the talks given at [Material Fest 2015][1] in Cádi
   > Speaker: [Antonio Consuegra][9]
   * Slides
 
-* **Materializa tu App**
+* **Materialize your App**
   > Speaker: [Antonio Leiva][10]
+  * [Slides](https://speakerdeck.com/antoniolg/materialize-your-app)
   * [GitHub](https://github.com/antoniolg/MaterializeYourApp)
 
 * **Diseñando Webs a lo Material Design con Polymer**
