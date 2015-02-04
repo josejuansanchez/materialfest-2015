@@ -4,11 +4,11 @@ Slides and example codes for the talks given at [Material Fest 2015][1] in Cádi
 
 ### Design Track
 
-* **Emociones y diseño de producto**
+* **Emociones y Diseño de Producto**
   > Speaker: [Manu Gamero][2]
   * _Coming soon_
 
-* **Brading in apps**
+* **Brading in Apps**
   > Speaker: [Máximo Gavete][3]
   * [Slides](https://speakerdeck.com/omixam/branding-en-apps)
 
@@ -27,7 +27,7 @@ Slides and example codes for the talks given at [Material Fest 2015][1] in Cádi
   La tipografía no sólo es una decisión de diseño, sino también un módulo mínimo de construcción para nuestro interfaz que nos permitirá salir todos los días a nuestra hora y, lo más importante, mejorará nuestra relación con el front-end ;).
 
 * **Animación de interfaces: primeros pasos y prototipado**
-  > Speaker: [Javi perez][7]
+  > Speaker: [Javi Perez][7]
   * [Slides](https://dl.dropboxusercontent.com/u/5863524/ANIMACION%20&%20PROTOTIPADO.pdf)
   Animar elementos de tu nueva interfaz, y darles sentido para mejorar la experiencia de usuario, es un valor que da mucha fuerza en la batalla de las stores. Aprende en estos minutos los primeros pasos para abordar esta tarea, y mostrar exactamente la app que imaginas, a los miembros de tu equipo.
 
