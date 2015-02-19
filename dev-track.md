@@ -1,11 +1,12 @@
 # Material Fest 2015
 
-Slides and example codes for the talks given at [Material Fest 2015][1] in Cádiz (January 31, 2015).
+Videos, slides and example codes for the talks given at [Material Fest 2015][1] in Cádiz (January 31, 2015).
 
 ### Dev Track
 
 * **Material for Old Schoolers**
   > Speakers: [Jorge Barroso][2] and [Fernando Cejas][3]
+  * [Video](https://www.youtube.com/watch?v=tSFrYWvh71I)
   * [Slides](http://www.slideshare.net/flipper83/material-old-school)
   * [GitHub](https://github.com/flipper83/transition-old-school)  
   Demo code for talk "Material for old schoolers". This code show how to give support to transitions for old schoolers.
