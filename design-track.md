@@ -20,6 +20,7 @@ Videos, slides and example codes for the talks given at [Material Fest 2015][1] 
 
 * **Sistemas bellos y sencillos**
   > Speaker: [Danny Saltaren][5]
+  * [Video](https://www.youtube.com/watch?v=Y1V7MK_I0D0)
   * [Slides](http://cl.ly/ZXuL)
 
 * **La tipografía. La medida de todo**
